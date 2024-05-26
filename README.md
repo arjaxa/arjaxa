@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ariana
-- 👀 I’m interested in game development,web development,data sience
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Godot & GDscript
+- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me www.linkedin.com/in/ariana-kh-0446aa236 
 
 <!---
