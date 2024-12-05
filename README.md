@@ -2,7 +2,9 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Godot & GDscript
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me www.linkedin.com/in/arianakh
+- 📫 How to reach me
+- www.linkedin.com/in/arianakh
+- arigdev@proton.me 
 
 <!---
 arjaxa/arjaxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
