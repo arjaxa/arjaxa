@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ariana
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Godot & GDscript
-- 💞️ I’m looking to collaborate on Game Development
+- 👩🏻‍💻 Hi, I’m Ariana
+- 🎮 I’m interested in Game Development
+- 💻 I’m currently learning Godot & GDscript
 - 📫 How to reach me
 - www.linkedin.com/in/arianakh
 - arigdev@proton.me 
