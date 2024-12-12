@@ -1,6 +1,5 @@
-- 👩🏻‍💻 Hi, I’m Ariana
-- 🎮 I’m interested in Game Development
-- 💻 I’m currently learning Godot & GDscript
-- 📫 How to reach me
-- www.linkedin.com/in/arianakh
+- 👩🏻‍💻 Currently Developing EOTF
+- 💻 https://github.com/arjaxa/EOTF-3D
+- 🎮 Play on arjaxa.itch.io 
+- ✉️ Contact Info
 - arigdev@proton.me 
