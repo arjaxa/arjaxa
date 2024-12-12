@@ -1,6 +1,6 @@
 - 👩🏻‍💻 Currently Developing EOTF
 - 💻 https://github.com/arjaxa/EOTF-3D
 - 🎮 Play on
-- https://arjaxa.itch.io/
-- ✉️ Contact Info
-- arigdevs@gmail.com 
+- 🌐 https://arjaxa.itch.io/
+- 📱 Contact Info
+- ✉️ arigdevs@gmail.com 
