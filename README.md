@@ -3,4 +3,4 @@
 - 🎮 Play on
 - https://arjaxa.itch.io/
 - ✉️ Contact Info
-- arigdev@proton.me 
+- arigdevs@gmail.com 
