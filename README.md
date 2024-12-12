@@ -2,5 +2,5 @@
 - https://github.com/arjaxa/EOTF-3D
 - 🎮 Play on
 - https://arjaxa.itch.io/
-- ✉️Contact Info
+- ✉️E-mail
 - arigdevs@gmail.com 
