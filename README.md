@@ -1,1 +1,6 @@
-
+- 💻 Currently Developing EOTF
+- https://github.com/arjaxa/EOTF-3D
+- 🔗 Projects
+- https://arigdev.itch.io/
+- ✉️ E-mail
+- arigdevs@gmail.com
